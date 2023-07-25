@@ -1,2 +1,2 @@
 # lzyserenity.github.io
-Zhiyi. Li
+ZhiyiLi
